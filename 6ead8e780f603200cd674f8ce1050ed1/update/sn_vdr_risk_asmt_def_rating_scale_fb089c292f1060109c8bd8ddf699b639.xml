@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_vdr_risk_asmt_def_rating_scale">
+    <sn_vdr_risk_asmt_def_rating_scale action="INSERT_OR_UPDATE">
+        <max>79</max>
+        <min>60</min>
+        <order>4</order>
+        <questionnaire_template display_value="Test QUestionnaire">33085ce52f1060109c8bd8ddf699b625</questionnaire_template>
+        <risk_rating display_value="Low">e1db905f9f03220030581471367fcf70</risk_rating>
+        <sys_class_name>sn_vdr_risk_asmt_def_rating_scale</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-05 07:12:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fb089c292f1060109c8bd8ddf699b639</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_vdr_risk_asmt_def_rating_scale_fb089c292f1060109c8bd8ddf699b639</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-05 07:12:28</sys_updated_on>
+    </sn_vdr_risk_asmt_def_rating_scale>
+</record_update>
